@@ -6,7 +6,7 @@
 A feature-rich network diagnostic tool written in Python that sends ICMP Echo Request packets to target hosts using raw sockets. Displays detailed statistics including round-trip times, packet loss, and color-coded output for easy visual assessment.
 
 **Version:** 1.0  
-**Author:** Joris Schot  
+**Author:** Oxpar  
 **License:** For educational purposes
 
 ---
