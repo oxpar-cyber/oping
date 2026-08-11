@@ -1,4 +1,3 @@
-# oping
 # Python ICMP Ping Utility
 
 ## Overview
